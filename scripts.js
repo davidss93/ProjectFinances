@@ -14,7 +14,7 @@ const Modal = {
       
 
       //gta
-      // abc
+      // cq8w76gq9hwhfq
      document
         .querySelector('.modal-overlay')
         .classList
