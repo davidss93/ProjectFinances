@@ -10,8 +10,10 @@ const Modal = {
       },
 
     close(){
-      // fechar o modal, etc
+      // fechar o modal,
       
+
+      //gta
      document
         .querySelector('.modal-overlay')
         .classList
