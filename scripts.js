@@ -10,8 +10,8 @@ const Modal = {
       },
 
     close(){
-      // fechar o modal
-      // remover a class active do modal
+      // fechar o modal, etc
+      
      document
         .querySelector('.modal-overlay')
         .classList
